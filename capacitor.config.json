@@ -1,0 +1,6 @@
+{
+  "appId": "com.durgapooja.hisab",
+  "appName": "Durga Pooja Hisab",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
